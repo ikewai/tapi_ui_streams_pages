@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tapi_ui_streams_pages/static/css/main.cf25aac9.chunk.css",
+    "main.js": "/tapi_ui_streams_pages/static/js/main.994cdeab.chunk.js",
+    "main.js.map": "/tapi_ui_streams_pages/static/js/main.994cdeab.chunk.js.map",
+    "runtime-main.js": "/tapi_ui_streams_pages/static/js/runtime-main.4f898c7b.js",
+    "runtime-main.js.map": "/tapi_ui_streams_pages/static/js/runtime-main.4f898c7b.js.map",
+    "static/css/2.5f51f24e.chunk.css": "/tapi_ui_streams_pages/static/css/2.5f51f24e.chunk.css",
+    "static/js/2.a9a09ad1.chunk.js": "/tapi_ui_streams_pages/static/js/2.a9a09ad1.chunk.js",
+    "static/js/2.a9a09ad1.chunk.js.map": "/tapi_ui_streams_pages/static/js/2.a9a09ad1.chunk.js.map",
+    "static/js/3.e6d18c5c.chunk.js": "/tapi_ui_streams_pages/static/js/3.e6d18c5c.chunk.js",
+    "static/js/3.e6d18c5c.chunk.js.map": "/tapi_ui_streams_pages/static/js/3.e6d18c5c.chunk.js.map",
+    "index.html": "/tapi_ui_streams_pages/index.html",
+    "static/css/2.5f51f24e.chunk.css.map": "/tapi_ui_streams_pages/static/css/2.5f51f24e.chunk.css.map",
+    "static/css/main.cf25aac9.chunk.css.map": "/tapi_ui_streams_pages/static/css/main.cf25aac9.chunk.css.map",
+    "static/js/2.a9a09ad1.chunk.js.LICENSE.txt": "/tapi_ui_streams_pages/static/js/2.a9a09ad1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tapi_ui_streams_pages/static/media/Cortal-Icons-1.2.a0d8332a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f898c7b.js",
+    "static/css/2.5f51f24e.chunk.css",
+    "static/js/2.a9a09ad1.chunk.js",
+    "static/css/main.cf25aac9.chunk.css",
+    "static/js/main.994cdeab.chunk.js"
+  ]
+}
